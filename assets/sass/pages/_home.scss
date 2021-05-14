@@ -1,0 +1,52 @@
+#hero{
+    * {
+        color: white;
+    }
+    h2{
+        text-align: center;
+    }
+    p{
+        text-align: center;
+        
+    }
+    a{
+        text-align: center;
+    }
+    
+   
+    margin-bottom: 150px;
+}
+.hero__title{
+    margin-bottom: 24px;
+}
+.hero__subtitle{
+    margin-bottom: 48px;
+}
+.hero__btn{
+    margin-bottom: 48px;
+}
+.max-height-192px{
+    max-height: 191px;
+}
+
+#section1{
+    *{
+        color: white;
+    }
+    .column-12{
+        h1{
+          margin-right: 117px;  
+        }
+        .firs__p{
+            width: 414px;
+        }  
+        
+    }
+    margin-bottom: 200px;
+}
+
+.section2__card__item__role{
+    padding-bottom: 96px;
+    
+}
+

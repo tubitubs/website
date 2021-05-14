@@ -1,0 +1,28 @@
+#nav{
+    padding: 32px 0;
+    margin-bottom: 100px;
+    *{
+        color: white;
+    }
+}
+.logo{
+    width: 200px;
+    height: 60px;
+    object-fit: cover;
+}
+
+.nav__start-project{
+    justify-content: flex-end;
+}
+.nav__container{
+    align-items: center;
+    width: 1232px;
+    margin: auto;
+
+}
+.nav__menu__links{
+    justify-content: space-between;
+}
+.link__item__search-icon{
+    margin-right: 40px;
+}
